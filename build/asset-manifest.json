@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c6234973.css",
+    "main.js": "/static/js/main.d69d3200.js",
+    "static/js/787.32032a02.chunk.js": "/static/js/787.32032a02.chunk.js",
+    "static/media/Hotdogs-MVlGB.woff": "/static/media/Hotdogs-MVlGB.35e29ab030d6c3303acf.woff",
+    "static/media/KosinSans-OV1Ed.woff": "/static/media/KosinSans-OV1Ed.a58cd2d9c8e6f9ed6b5e.woff",
+    "index.html": "/index.html",
+    "main.c6234973.css.map": "/static/css/main.c6234973.css.map",
+    "main.d69d3200.js.map": "/static/js/main.d69d3200.js.map",
+    "787.32032a02.chunk.js.map": "/static/js/787.32032a02.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c6234973.css",
+    "static/js/main.d69d3200.js"
+  ]
+}
